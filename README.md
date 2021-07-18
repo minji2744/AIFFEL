@@ -7,8 +7,8 @@
 
 | Number | Task | Link |
 | :---: | :---: | :---: |
-| 01 | image classifier(rock scissor paper) | [jupyter_notebook](https://github.com/minji2744/AIFFEL/blob/master/E1_rock_scissors_papers.ipynb) |
-| 02 | scikit-learn(digits, wine, breast-cancer) Machine learning | [jupyter_notebook]() |
+| 01 | image classifier(rock scissor paper) | [jupyter_notebook](https://github.com/minji2744/AIFFEL/tree/master/E1) |
+| 02 | scikit-learn(digits, wine, breast-cancer) Machine learning | [jupyter_notebook](https://github.com/minji2744/AIFFEL/tree/master/E2) |
 | 03 |  |  |
 | 04 |  |  |
 | 05 |  |  |
