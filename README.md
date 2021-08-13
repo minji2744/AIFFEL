@@ -27,7 +27,8 @@
 
 
 ## 2. tf(tensorflow) master
-> studying tensorflow tutorial notebooks
-[directory](https://github.com/minji2744/AIFFEL/tree/master/tfmaster)
+> studying tensorflow tutorial notebooks    
+> [(link to directory)](https://github.com/minji2744/AIFFEL/tree/master/tfmaster)
 
-## 99. ETC Projects
+
+<br/>
